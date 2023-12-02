@@ -1,0 +1,39 @@
+.banner {
+  background: url("img/mainfoto.jpeg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.jumbotron {
+  background-color: #14c2dd;
+}
+
+h1 {
+  padding-top: 2rem;
+  color: aliceblue;
+  font-family: "Nanum Pen Script", cursive;
+  padding-bottom: 2rem;
+}
+
+h2 {
+  padding-top: 2rem;
+  color: aliceblue;
+  font-family: "Lobster", cursive;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+p {
+  color: aliceblue;
+}
+
+a {
+  color: aliceblue;
+}
